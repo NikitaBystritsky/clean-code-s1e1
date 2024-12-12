@@ -116,7 +116,7 @@ label[for="new-task"] {
   width: 226px;
 }
 #tasks-list-item >  input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 button.del-btn img {
   height: 2em;
